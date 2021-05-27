@@ -1,0 +1,12 @@
+C:\Users\Nathapon.S\source\repos\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.exe
+C:\Users\Nathapon.S\source\repos\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.deps.json
+C:\Users\Nathapon.S\source\repos\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.runtimeconfig.json
+C:\Users\Nathapon.S\source\repos\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.runtimeconfig.dev.json
+C:\Users\Nathapon.S\source\repos\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.dll
+C:\Users\Nathapon.S\source\repos\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.pdb
+C:\Users\Nathapon.S\source\repos\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.AssemblyInfoInputs.cache
+C:\Users\Nathapon.S\source\repos\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.AssemblyInfo.cs
+C:\Users\Nathapon.S\source\repos\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.csproj.CoreCompileInputs.cache
+C:\Users\Nathapon.S\source\repos\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.dll
+C:\Users\Nathapon.S\source\repos\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.pdb
+C:\Users\Nathapon.S\source\repos\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.genruntimeconfig.cache
