@@ -6,10 +6,10 @@ namespace Loop
     {
         static void Main(string[] args)
         {
-            int i = 0;
+            int i = 1;
             while (i < 5)
             {
-                Console.WriteLine(i);
+                Console.WriteLine("Hello World");
                 i = i + 1;
             }
             Console.ReadLine();
