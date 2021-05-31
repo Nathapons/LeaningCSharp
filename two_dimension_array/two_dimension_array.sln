@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "two_dimension_array", "two_dimension_array\two_dimension_array.csproj", "{EC1C2C98-596B-4DD3-A465-83180E52E9BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC1C2C98-596B-4DD3-A465-83180E52E9BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC1C2C98-596B-4DD3-A465-83180E52E9BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC1C2C98-596B-4DD3-A465-83180E52E9BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC1C2C98-596B-4DD3-A465-83180E52E9BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15DEBAB8-EEC0-463D-BC2D-84E3ADA84F83}
+	EndGlobalSection
+EndGlobal

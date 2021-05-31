@@ -1,0 +1,12 @@
+C:\Users\Nathapon.S\source\repos\ReturnFunction\ReturnFunction\obj\Debug\netcoreapp3.1\ReturnFunction.AssemblyInfoInputs.cache
+C:\Users\Nathapon.S\source\repos\ReturnFunction\ReturnFunction\obj\Debug\netcoreapp3.1\ReturnFunction.AssemblyInfo.cs
+C:\Users\Nathapon.S\source\repos\ReturnFunction\ReturnFunction\obj\Debug\netcoreapp3.1\ReturnFunction.csproj.CoreCompileInputs.cache
+C:\Users\Nathapon.S\source\repos\ReturnFunction\ReturnFunction\bin\Debug\netcoreapp3.1\ReturnFunction.exe
+C:\Users\Nathapon.S\source\repos\ReturnFunction\ReturnFunction\bin\Debug\netcoreapp3.1\ReturnFunction.deps.json
+C:\Users\Nathapon.S\source\repos\ReturnFunction\ReturnFunction\bin\Debug\netcoreapp3.1\ReturnFunction.runtimeconfig.json
+C:\Users\Nathapon.S\source\repos\ReturnFunction\ReturnFunction\bin\Debug\netcoreapp3.1\ReturnFunction.runtimeconfig.dev.json
+C:\Users\Nathapon.S\source\repos\ReturnFunction\ReturnFunction\bin\Debug\netcoreapp3.1\ReturnFunction.dll
+C:\Users\Nathapon.S\source\repos\ReturnFunction\ReturnFunction\bin\Debug\netcoreapp3.1\ReturnFunction.pdb
+C:\Users\Nathapon.S\source\repos\ReturnFunction\ReturnFunction\obj\Debug\netcoreapp3.1\ReturnFunction.dll
+C:\Users\Nathapon.S\source\repos\ReturnFunction\ReturnFunction\obj\Debug\netcoreapp3.1\ReturnFunction.pdb
+C:\Users\Nathapon.S\source\repos\ReturnFunction\ReturnFunction\obj\Debug\netcoreapp3.1\ReturnFunction.genruntimeconfig.cache

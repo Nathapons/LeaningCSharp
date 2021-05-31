@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Nathapon.S\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Nathapon.S\\.nuget\\packages"
+    ]
+  }
+}

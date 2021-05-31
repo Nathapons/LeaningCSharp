@@ -1,0 +1,13 @@
+C:\Users\Nathapon.S\source\repos\FirstMethod\FirstMethod\bin\Debug\netcoreapp3.1\FirstMethod.exe
+C:\Users\Nathapon.S\source\repos\FirstMethod\FirstMethod\bin\Debug\netcoreapp3.1\FirstMethod.deps.json
+C:\Users\Nathapon.S\source\repos\FirstMethod\FirstMethod\bin\Debug\netcoreapp3.1\FirstMethod.runtimeconfig.json
+C:\Users\Nathapon.S\source\repos\FirstMethod\FirstMethod\bin\Debug\netcoreapp3.1\FirstMethod.runtimeconfig.dev.json
+C:\Users\Nathapon.S\source\repos\FirstMethod\FirstMethod\bin\Debug\netcoreapp3.1\FirstMethod.dll
+C:\Users\Nathapon.S\source\repos\FirstMethod\FirstMethod\bin\Debug\netcoreapp3.1\FirstMethod.pdb
+C:\Users\Nathapon.S\source\repos\FirstMethod\FirstMethod\obj\Debug\netcoreapp3.1\FirstMethod.csprojAssemblyReference.cache
+C:\Users\Nathapon.S\source\repos\FirstMethod\FirstMethod\obj\Debug\netcoreapp3.1\FirstMethod.AssemblyInfoInputs.cache
+C:\Users\Nathapon.S\source\repos\FirstMethod\FirstMethod\obj\Debug\netcoreapp3.1\FirstMethod.AssemblyInfo.cs
+C:\Users\Nathapon.S\source\repos\FirstMethod\FirstMethod\obj\Debug\netcoreapp3.1\FirstMethod.csproj.CoreCompileInputs.cache
+C:\Users\Nathapon.S\source\repos\FirstMethod\FirstMethod\obj\Debug\netcoreapp3.1\FirstMethod.dll
+C:\Users\Nathapon.S\source\repos\FirstMethod\FirstMethod\obj\Debug\netcoreapp3.1\FirstMethod.pdb
+C:\Users\Nathapon.S\source\repos\FirstMethod\FirstMethod\obj\Debug\netcoreapp3.1\FirstMethod.genruntimeconfig.cache
