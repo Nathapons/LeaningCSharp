@@ -1,0 +1,21 @@
+﻿<Window x:Class="GUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GUI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid HorizontalAlignment="Right" Width="790" Margin="0,0,3.6,0" Height="420" VerticalAlignment="Top">
+        <Label Content="Fill Information" Height="50
+               " Margin="177,10,168,360" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="28
+               " Foreground="White" Background="Blue"/>
+        <Label Content="First Name" Height="50" Margin="40,81,571.6,289" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="24"/>
+        <Label Content="Last Name" Height="50" Margin="41,163,571,207" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="24"/>
+        <Label Content="Address" Height="50" Margin="41,228,570,142" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="24" RenderTransformOrigin="0.559,-0.272"/>
+        <Button Content="Run Program" HorizontalAlignment="Left" Height="67" Margin="219,309,0,0" VerticalAlignment="Top" Width="341" FontSize="24"/>
+        <TextBox HorizontalAlignment="Left" Height="50" Margin="219,81,0,289" TextWrapping="Wrap" Text="firstname" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Width="499" FontSize="24"/>
+        <TextBox HorizontalAlignment="Left" Height="50" Margin="219,163,0,207" TextWrapping="Wrap" Text="lastname" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Width="499" FontSize="24"/>
+        <TextBox HorizontalAlignment="Left" Height="50" Margin="219,228,0,142" TextWrapping="Wrap" Text="address" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Width="499" FontSize="24"/>
+    </Grid>
+</Window>

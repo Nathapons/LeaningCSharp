@@ -1,0 +1,15 @@
+C:\Users\Nathapon.S\source\repos\GUIProgram\GUIProgram\bin\Debug\GUIProgram.exe.config
+C:\Users\Nathapon.S\source\repos\GUIProgram\GUIProgram\bin\Debug\GUIProgram.exe
+C:\Users\Nathapon.S\source\repos\GUIProgram\GUIProgram\bin\Debug\GUIProgram.pdb
+C:\Users\Nathapon.S\source\repos\GUIProgram\GUIProgram\obj\Debug\GUIProgram.csprojAssemblyReference.cache
+C:\Users\Nathapon.S\source\repos\GUIProgram\GUIProgram\obj\Debug\MainWindow.g.cs
+C:\Users\Nathapon.S\source\repos\GUIProgram\GUIProgram\obj\Debug\App.g.cs
+C:\Users\Nathapon.S\source\repos\GUIProgram\GUIProgram\obj\Debug\GUIProgram_MarkupCompile.cache
+C:\Users\Nathapon.S\source\repos\GUIProgram\GUIProgram\obj\Debug\GUIProgram_MarkupCompile.lref
+C:\Users\Nathapon.S\source\repos\GUIProgram\GUIProgram\obj\Debug\MainWindow.baml
+C:\Users\Nathapon.S\source\repos\GUIProgram\GUIProgram\obj\Debug\GUIProgram.g.resources
+C:\Users\Nathapon.S\source\repos\GUIProgram\GUIProgram\obj\Debug\GUIProgram.Properties.Resources.resources
+C:\Users\Nathapon.S\source\repos\GUIProgram\GUIProgram\obj\Debug\GUIProgram.csproj.GenerateResource.cache
+C:\Users\Nathapon.S\source\repos\GUIProgram\GUIProgram\obj\Debug\GUIProgram.csproj.CoreCompileInputs.cache
+C:\Users\Nathapon.S\source\repos\GUIProgram\GUIProgram\obj\Debug\GUIProgram.exe
+C:\Users\Nathapon.S\source\repos\GUIProgram\GUIProgram\obj\Debug\GUIProgram.pdb
