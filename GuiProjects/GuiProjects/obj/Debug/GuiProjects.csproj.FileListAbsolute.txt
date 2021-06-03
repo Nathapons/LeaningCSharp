@@ -1,0 +1,15 @@
+C:\Users\Nathapon.S\source\repos\GuiProjects\GuiProjects\bin\Debug\GuiProjects.exe.config
+C:\Users\Nathapon.S\source\repos\GuiProjects\GuiProjects\bin\Debug\GuiProjects.exe
+C:\Users\Nathapon.S\source\repos\GuiProjects\GuiProjects\bin\Debug\GuiProjects.pdb
+C:\Users\Nathapon.S\source\repos\GuiProjects\GuiProjects\obj\Debug\GuiProjects.csprojAssemblyReference.cache
+C:\Users\Nathapon.S\source\repos\GuiProjects\GuiProjects\obj\Debug\MainWindow.g.cs
+C:\Users\Nathapon.S\source\repos\GuiProjects\GuiProjects\obj\Debug\App.g.cs
+C:\Users\Nathapon.S\source\repos\GuiProjects\GuiProjects\obj\Debug\GuiProjects_MarkupCompile.cache
+C:\Users\Nathapon.S\source\repos\GuiProjects\GuiProjects\obj\Debug\GuiProjects_MarkupCompile.lref
+C:\Users\Nathapon.S\source\repos\GuiProjects\GuiProjects\obj\Debug\MainWindow.baml
+C:\Users\Nathapon.S\source\repos\GuiProjects\GuiProjects\obj\Debug\GuiProjects.g.resources
+C:\Users\Nathapon.S\source\repos\GuiProjects\GuiProjects\obj\Debug\GuiProjects.Properties.Resources.resources
+C:\Users\Nathapon.S\source\repos\GuiProjects\GuiProjects\obj\Debug\GuiProjects.csproj.GenerateResource.cache
+C:\Users\Nathapon.S\source\repos\GuiProjects\GuiProjects\obj\Debug\GuiProjects.csproj.CoreCompileInputs.cache
+C:\Users\Nathapon.S\source\repos\GuiProjects\GuiProjects\obj\Debug\GuiProjects.exe
+C:\Users\Nathapon.S\source\repos\GuiProjects\GuiProjects\obj\Debug\GuiProjects.pdb
