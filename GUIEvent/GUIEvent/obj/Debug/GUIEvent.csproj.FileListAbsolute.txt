@@ -1,0 +1,15 @@
+C:\Users\Nathapon.S\source\repos\GUIEvent\GUIEvent\bin\Debug\GUIEvent.exe.config
+C:\Users\Nathapon.S\source\repos\GUIEvent\GUIEvent\bin\Debug\GUIEvent.exe
+C:\Users\Nathapon.S\source\repos\GUIEvent\GUIEvent\bin\Debug\GUIEvent.pdb
+C:\Users\Nathapon.S\source\repos\GUIEvent\GUIEvent\obj\Debug\GUIEvent.csprojAssemblyReference.cache
+C:\Users\Nathapon.S\source\repos\GUIEvent\GUIEvent\obj\Debug\MainWindow.g.cs
+C:\Users\Nathapon.S\source\repos\GUIEvent\GUIEvent\obj\Debug\App.g.cs
+C:\Users\Nathapon.S\source\repos\GUIEvent\GUIEvent\obj\Debug\GUIEvent_MarkupCompile.cache
+C:\Users\Nathapon.S\source\repos\GUIEvent\GUIEvent\obj\Debug\GUIEvent_MarkupCompile.lref
+C:\Users\Nathapon.S\source\repos\GUIEvent\GUIEvent\obj\Debug\MainWindow.baml
+C:\Users\Nathapon.S\source\repos\GUIEvent\GUIEvent\obj\Debug\GUIEvent.g.resources
+C:\Users\Nathapon.S\source\repos\GUIEvent\GUIEvent\obj\Debug\GUIEvent.Properties.Resources.resources
+C:\Users\Nathapon.S\source\repos\GUIEvent\GUIEvent\obj\Debug\GUIEvent.csproj.GenerateResource.cache
+C:\Users\Nathapon.S\source\repos\GUIEvent\GUIEvent\obj\Debug\GUIEvent.csproj.CoreCompileInputs.cache
+C:\Users\Nathapon.S\source\repos\GUIEvent\GUIEvent\obj\Debug\GUIEvent.exe
+C:\Users\Nathapon.S\source\repos\GUIEvent\GUIEvent\obj\Debug\GUIEvent.pdb

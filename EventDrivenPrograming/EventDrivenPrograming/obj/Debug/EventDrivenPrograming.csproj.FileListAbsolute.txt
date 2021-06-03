@@ -1,0 +1,14 @@
+C:\Users\Nathapon.S\source\repos\EventDrivenPrograming\EventDrivenPrograming\bin\Debug\EventDrivenPrograming.exe.config
+C:\Users\Nathapon.S\source\repos\EventDrivenPrograming\EventDrivenPrograming\bin\Debug\EventDrivenPrograming.exe
+C:\Users\Nathapon.S\source\repos\EventDrivenPrograming\EventDrivenPrograming\bin\Debug\EventDrivenPrograming.pdb
+C:\Users\Nathapon.S\source\repos\EventDrivenPrograming\EventDrivenPrograming\obj\Debug\MainWindow.g.cs
+C:\Users\Nathapon.S\source\repos\EventDrivenPrograming\EventDrivenPrograming\obj\Debug\App.g.cs
+C:\Users\Nathapon.S\source\repos\EventDrivenPrograming\EventDrivenPrograming\obj\Debug\EventDrivenPrograming_MarkupCompile.cache
+C:\Users\Nathapon.S\source\repos\EventDrivenPrograming\EventDrivenPrograming\obj\Debug\EventDrivenPrograming_MarkupCompile.lref
+C:\Users\Nathapon.S\source\repos\EventDrivenPrograming\EventDrivenPrograming\obj\Debug\MainWindow.baml
+C:\Users\Nathapon.S\source\repos\EventDrivenPrograming\EventDrivenPrograming\obj\Debug\EventDrivenPrograming.g.resources
+C:\Users\Nathapon.S\source\repos\EventDrivenPrograming\EventDrivenPrograming\obj\Debug\EventDrivenPrograming.Properties.Resources.resources
+C:\Users\Nathapon.S\source\repos\EventDrivenPrograming\EventDrivenPrograming\obj\Debug\EventDrivenPrograming.csproj.GenerateResource.cache
+C:\Users\Nathapon.S\source\repos\EventDrivenPrograming\EventDrivenPrograming\obj\Debug\EventDrivenPrograming.csproj.CoreCompileInputs.cache
+C:\Users\Nathapon.S\source\repos\EventDrivenPrograming\EventDrivenPrograming\obj\Debug\EventDrivenPrograming.exe
+C:\Users\Nathapon.S\source\repos\EventDrivenPrograming\EventDrivenPrograming\obj\Debug\EventDrivenPrograming.pdb
