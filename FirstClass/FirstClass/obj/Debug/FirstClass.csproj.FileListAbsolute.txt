@@ -1,0 +1,15 @@
+C:\Users\Nathapon.S\source\repos\FirstClass\FirstClass\bin\Debug\FirstClass.exe.config
+C:\Users\Nathapon.S\source\repos\FirstClass\FirstClass\bin\Debug\FirstClass.exe
+C:\Users\Nathapon.S\source\repos\FirstClass\FirstClass\bin\Debug\FirstClass.pdb
+C:\Users\Nathapon.S\source\repos\FirstClass\FirstClass\obj\Debug\FirstClass.csprojAssemblyReference.cache
+C:\Users\Nathapon.S\source\repos\FirstClass\FirstClass\obj\Debug\MainWindow.g.cs
+C:\Users\Nathapon.S\source\repos\FirstClass\FirstClass\obj\Debug\App.g.cs
+C:\Users\Nathapon.S\source\repos\FirstClass\FirstClass\obj\Debug\FirstClass_MarkupCompile.cache
+C:\Users\Nathapon.S\source\repos\FirstClass\FirstClass\obj\Debug\FirstClass_MarkupCompile.lref
+C:\Users\Nathapon.S\source\repos\FirstClass\FirstClass\obj\Debug\MainWindow.baml
+C:\Users\Nathapon.S\source\repos\FirstClass\FirstClass\obj\Debug\FirstClass.g.resources
+C:\Users\Nathapon.S\source\repos\FirstClass\FirstClass\obj\Debug\FirstClass.Properties.Resources.resources
+C:\Users\Nathapon.S\source\repos\FirstClass\FirstClass\obj\Debug\FirstClass.csproj.GenerateResource.cache
+C:\Users\Nathapon.S\source\repos\FirstClass\FirstClass\obj\Debug\FirstClass.csproj.CoreCompileInputs.cache
+C:\Users\Nathapon.S\source\repos\FirstClass\FirstClass\obj\Debug\FirstClass.exe
+C:\Users\Nathapon.S\source\repos\FirstClass\FirstClass\obj\Debug\FirstClass.pdb
