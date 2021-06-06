@@ -24,8 +24,11 @@ namespace Abstract
         {
             InitializeComponent();
             Square square = new Square();
+            Square square2 = new Square();
             square.Side = 5;
+            square2.Side = 10;
             MessageBox.Show(square.Area().ToString());
+            MessageBox.Show(square2.Area().ToString());
         }
     }
 }
