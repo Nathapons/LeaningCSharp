@@ -1,0 +1,14 @@
+C:\Users\Nathapon.S\source\repos\Overloading\Overloading\bin\Debug\Overloading.exe.config
+C:\Users\Nathapon.S\source\repos\Overloading\Overloading\bin\Debug\Overloading.exe
+C:\Users\Nathapon.S\source\repos\Overloading\Overloading\bin\Debug\Overloading.pdb
+C:\Users\Nathapon.S\source\repos\Overloading\Overloading\obj\Debug\MainWindow.g.cs
+C:\Users\Nathapon.S\source\repos\Overloading\Overloading\obj\Debug\App.g.cs
+C:\Users\Nathapon.S\source\repos\Overloading\Overloading\obj\Debug\Overloading_MarkupCompile.cache
+C:\Users\Nathapon.S\source\repos\Overloading\Overloading\obj\Debug\Overloading_MarkupCompile.lref
+C:\Users\Nathapon.S\source\repos\Overloading\Overloading\obj\Debug\MainWindow.baml
+C:\Users\Nathapon.S\source\repos\Overloading\Overloading\obj\Debug\Overloading.g.resources
+C:\Users\Nathapon.S\source\repos\Overloading\Overloading\obj\Debug\Overloading.Properties.Resources.resources
+C:\Users\Nathapon.S\source\repos\Overloading\Overloading\obj\Debug\Overloading.csproj.GenerateResource.cache
+C:\Users\Nathapon.S\source\repos\Overloading\Overloading\obj\Debug\Overloading.csproj.CoreCompileInputs.cache
+C:\Users\Nathapon.S\source\repos\Overloading\Overloading\obj\Debug\Overloading.exe
+C:\Users\Nathapon.S\source\repos\Overloading\Overloading\obj\Debug\Overloading.pdb
