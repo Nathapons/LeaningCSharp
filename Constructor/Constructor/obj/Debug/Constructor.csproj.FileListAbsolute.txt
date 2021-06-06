@@ -1,0 +1,14 @@
+C:\Users\Nathapon.S\source\repos\Constructor\Constructor\bin\Debug\Constructor.exe.config
+C:\Users\Nathapon.S\source\repos\Constructor\Constructor\bin\Debug\Constructor.exe
+C:\Users\Nathapon.S\source\repos\Constructor\Constructor\bin\Debug\Constructor.pdb
+C:\Users\Nathapon.S\source\repos\Constructor\Constructor\obj\Debug\MainWindow.g.cs
+C:\Users\Nathapon.S\source\repos\Constructor\Constructor\obj\Debug\App.g.cs
+C:\Users\Nathapon.S\source\repos\Constructor\Constructor\obj\Debug\Constructor_MarkupCompile.cache
+C:\Users\Nathapon.S\source\repos\Constructor\Constructor\obj\Debug\Constructor_MarkupCompile.lref
+C:\Users\Nathapon.S\source\repos\Constructor\Constructor\obj\Debug\MainWindow.baml
+C:\Users\Nathapon.S\source\repos\Constructor\Constructor\obj\Debug\Constructor.g.resources
+C:\Users\Nathapon.S\source\repos\Constructor\Constructor\obj\Debug\Constructor.Properties.Resources.resources
+C:\Users\Nathapon.S\source\repos\Constructor\Constructor\obj\Debug\Constructor.csproj.GenerateResource.cache
+C:\Users\Nathapon.S\source\repos\Constructor\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\Nathapon.S\source\repos\Constructor\Constructor\obj\Debug\Constructor.exe
+C:\Users\Nathapon.S\source\repos\Constructor\Constructor\obj\Debug\Constructor.pdb
