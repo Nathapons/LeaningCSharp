@@ -1,0 +1,15 @@
+C:\Users\Nathapon.S\source\repos\Abstract\Abstract\bin\Debug\Abstract.exe.config
+C:\Users\Nathapon.S\source\repos\Abstract\Abstract\bin\Debug\Abstract.exe
+C:\Users\Nathapon.S\source\repos\Abstract\Abstract\bin\Debug\Abstract.pdb
+C:\Users\Nathapon.S\source\repos\Abstract\Abstract\obj\Debug\Abstract.csprojAssemblyReference.cache
+C:\Users\Nathapon.S\source\repos\Abstract\Abstract\obj\Debug\MainWindow.g.cs
+C:\Users\Nathapon.S\source\repos\Abstract\Abstract\obj\Debug\App.g.cs
+C:\Users\Nathapon.S\source\repos\Abstract\Abstract\obj\Debug\Abstract_MarkupCompile.cache
+C:\Users\Nathapon.S\source\repos\Abstract\Abstract\obj\Debug\Abstract_MarkupCompile.lref
+C:\Users\Nathapon.S\source\repos\Abstract\Abstract\obj\Debug\MainWindow.baml
+C:\Users\Nathapon.S\source\repos\Abstract\Abstract\obj\Debug\Abstract.g.resources
+C:\Users\Nathapon.S\source\repos\Abstract\Abstract\obj\Debug\Abstract.Properties.Resources.resources
+C:\Users\Nathapon.S\source\repos\Abstract\Abstract\obj\Debug\Abstract.csproj.GenerateResource.cache
+C:\Users\Nathapon.S\source\repos\Abstract\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
+C:\Users\Nathapon.S\source\repos\Abstract\Abstract\obj\Debug\Abstract.exe
+C:\Users\Nathapon.S\source\repos\Abstract\Abstract\obj\Debug\Abstract.pdb
